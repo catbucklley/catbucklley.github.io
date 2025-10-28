@@ -1,0 +1,50 @@
+html, body {
+font-family: "Roboto", sans-serif;   
+  font-size: 16px;  
+  background-color: lightgoldenrodyellow;
+    text-align:  center;
+}
+
+h1 {
+    font-size: 16px;
+    text-align:  center;
+}
+body#aboutme {
+  font-family: "Roboto", sans-serif;
+    font-size: 20px;
+  background-color: lightpink;
+    margin: 0 auto;  
+    max-width: 500px; 
+}
+
+body#homepage {
+    font-family: "Roboto", sans-serif;
+    background-color: lightblue;
+    padding: 20px;
+    columns: 2; 
+}
+
+nav a {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  display: inline;
+  cursor: pointer;
+  color: rgb(85, 26, 139);
+  text-decoration: underline solid rgb(0,0,238);
+  height: auto;
+  width: auto;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.container p {
+  text-align: center;  
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    margin: 0 auto;  
+     max-width: 500px; 
+    text-decoration: underline;
+}
+
